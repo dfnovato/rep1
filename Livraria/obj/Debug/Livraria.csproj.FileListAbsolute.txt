@@ -1,0 +1,13 @@
+C:\Users\quinh\source\repos\Livraria\obj\Debug\Livraria.Login.resources
+C:\Users\quinh\source\repos\Livraria\obj\Debug\Livraria.Properties.Resources.resources
+C:\Users\quinh\source\repos\Livraria\obj\Debug\Livraria.csproj.GenerateResource.cache
+C:\Users\quinh\source\repos\Livraria\obj\Debug\Livraria.csproj.CoreCompileInputs.cache
+C:\Users\quinh\source\repos\Livraria\bin\Debug\Livraria.exe.config
+C:\Users\quinh\source\repos\Livraria\bin\Debug\Livraria.exe
+C:\Users\quinh\source\repos\Livraria\bin\Debug\Livraria.pdb
+C:\Users\quinh\source\repos\Livraria\obj\Debug\Livraria.exe
+C:\Users\quinh\source\repos\Livraria\obj\Debug\Livraria.pdb
+C:\Users\quinh\source\repos\Livraria\obj\Debug\Livraria.frmmenu.resources
+C:\Users\quinh\source\repos\Livraria\obj\Debug\Livraria.Principal.resources
+C:\Users\quinh\source\repos\Livraria\obj\Debug\Livraria.frmatendente.resources
+C:\Users\quinh\source\repos\Livraria\obj\Debug\Livraria.csproj.AssemblyReference.cache
